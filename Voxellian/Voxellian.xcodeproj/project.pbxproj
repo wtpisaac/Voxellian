@@ -31,6 +31,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		7D63F9B32CEF18B0005B504C /* Devlog */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Devlog;
+			sourceTree = "<group>";
+		};
 		7DCC5ECE2CEC7BC7002108B0 /* Voxellian */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Voxellian;
@@ -76,6 +81,7 @@
 		7DCC5EC32CEC7BC7002108B0 = {
 			isa = PBXGroup;
 			children = (
+				7D63F9B32CEF18B0005B504C /* Devlog */,
 				7DCC5F0A2CEC8CFD002108B0 /* README.md */,
 				7DCC5ECE2CEC7BC7002108B0 /* Voxellian */,
 				7DCC5EE02CEC7BC8002108B0 /* VoxellianTests */,
